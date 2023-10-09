@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.site-content {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('Image/wireless.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*{
+    font-family: Aclonica;
+    color: white;
+}
+nav{
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+}
+
+.brand {
+    font-size: 4vw;
+    font-family: Berkshire Swash;
+    margin-left: 5vw;
+    margin-top: 4vh;
+
+}
+.nav-item {
+    margin-top: 6vh;
+    padding: 2vw;
+    font-size: 1vw;
+}
